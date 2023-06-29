@@ -1,0 +1,2 @@
+data = [{'name': 'Sun', 'distance': 1.5813e-05, 'mass': 1.0, 'radius': 1.0, 'gravity': 274.2691614595739}, {'name': 'Sirius', 'distance': 8.6, 'mass': 2.1, 'radius': 1.71, 'gravity': 196.971799550325},
+        {'name': 'Canopus', 'distance': 310.0, 'mass': 15.0, 'radius': 71.0, 'gravity': 0.8161153386021839}, {'name': 'Alpha Centauri', 'distance': 4.4, 'mass': 1.1, 'radius': 1.2, 'gravity': 209.51116500384123}]
